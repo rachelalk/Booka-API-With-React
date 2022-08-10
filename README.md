@@ -6,5 +6,5 @@ I used Create React App to initialise an app, created components and used an API
 
 The goal here was to solidify the weeks learning.
 
-To see a clip of this project working click <a href=https://twitter.com/rachelalk/status/1538578846433398785>here </a>.
+View the live app <a href="https://soc-books-api.netlify.app/">here</a>
 
